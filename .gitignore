@@ -1,0 +1,4 @@
+ubuntu-focal/
+*.deb
+*.log*
+.vagrant/
